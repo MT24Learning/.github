@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/MT24Learning.png?size=200" width="100" alt="MT24Learning logo">
+  <img src="https://raw.githubusercontent.com/MT24Learning/.github/main/profile/assets/mt24-learning-banner.png" width="100%" alt="MT24 Learning — privacy-first software and open learning">
 </p>
-
-<h1 align="center">MT24Learning</h1>
 
 <p align="center"><b>Privacy-first software and open learning by Mohammed Tahri (MT24).</b></p>
 
@@ -10,11 +8,18 @@
 
 ### Software
 
-**[SiteDNA](https://mt24learning.github.io/SiteDNA/)** — a Chrome extension that reads the design DNA of any website: colors, fonts and images, a design consistency audit with WCAG contrast checks, and design tokens for CSS, Tailwind and the W3C format. Free to use, with a one-time PRO upgrade.
+| Product | What it is | Status |
+| --- | --- | --- |
+| **[SiteDNA](https://mt24learning.github.io/SiteDNA/)** | A Chrome extension that reads the design DNA of any website: colors, fonts, images, a consistency and WCAG contrast audit, and design tokens. Free, with a one-time PRO upgrade. | In review on the Chrome Web Store |
+| **Deepfolio** | A free, open-source offline vault for Android and desktop. Passwords, cards, IDs, CVs and documents stay encrypted on your device. | In development |
+
+More apps and extensions will join this list. Each one follows the same rule: your data stays yours.
 
 ### Learning
 
 **Knowledge Sprint Series** — a free visual learning series, published sprint by sprint. Every completed phase is archived with a citable DOI in the [MT24 Learning community on Zenodo](https://zenodo.org/communities/mt24-learning).
+
+*The empty set — where every proof begins.*
 
 ### How we work
 
