@@ -17,7 +17,7 @@ More apps and extensions will join this list. Each one follows the same rule: yo
 
 ### Learning
 
-**Knowledge Sprint Series** — a free visual learning series, published sprint by sprint. Every completed phase is archived with a citable DOI in the [MT24 Learning community on Zenodo](https://zenodo.org/communities/mt24-learning).
+**[Knowledge Sprint Series](https://github.com/MT24Learning/knowledge-sprint-series)** — a free visual learning series, published sprint by sprint. Every completed phase is archived with a citable DOI in the [MT24 Learning community on Zenodo](https://zenodo.org/communities/mt24-learning).
 
 *The empty set — where every proof begins.*
 
